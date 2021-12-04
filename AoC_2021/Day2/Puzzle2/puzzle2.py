@@ -20,7 +20,4 @@ while True:
     except:
         break
 
-print(d)
-print(h)
-print(aim)
 print(h*d)
